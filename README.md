@@ -1,0 +1,1 @@
+Made a auction smart-contract using solidity. in this contract creater is the owner of smart contract . A person can place bid before the deadline . The person with the highest number of bid amount wins the auction.
